@@ -1,0 +1,21 @@
+.content {
+  width: 500px;
+}
+
+.line {
+  fill: none;
+  stroke: red;
+  stroke-width: 2px;
+  stroke-dasharray: 1100,1100;
+  animation:
+          dash 5s linear infinite;
+}
+
+@keyframes dash {
+  from {
+    stroke-dashoffset: 1100;
+  }
+  to {
+    stroke-dashoffset:-1100;
+  }
+}
