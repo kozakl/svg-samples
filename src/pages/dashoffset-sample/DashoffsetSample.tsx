@@ -4,7 +4,7 @@ import * as style from './DashoffsetSample.pcss';
 export default function DashoffsetSample()
 {
     return (
-        <div className={style.content}>
+        <div className={style.dashoffset}>
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500">
                 <polyline
                     className={style.line}
