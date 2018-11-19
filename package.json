@@ -1,5 +1,5 @@
 {
-  "name": "grid-samples",
+  "name": "svg-samples",
   "scripts": {
     "start": "webpack-dev-server --config webpack.config.js",
     "prebuild": "npm run clean-public",

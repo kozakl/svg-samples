@@ -1,6 +1,6 @@
 {
-  "short_name": "Grid - Samples",
-  "name": "Grid - Samples",
+  "short_name": "SVG - Samples",
+  "name": "SVG - Samples",
   "start_url": "./index.html",
   "display": "standalone",
   "theme_color": "#E8E0BC",
