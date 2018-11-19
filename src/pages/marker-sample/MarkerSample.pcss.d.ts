@@ -1,5 +1,3 @@
-export const areas:string;
-export const header:string;
-export const menu:string;
-export const content:string;
-export const footer:string;
+export const marker:string;
+export const arrow:string;
+export const line:string;
