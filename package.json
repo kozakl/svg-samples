@@ -22,7 +22,6 @@
     ]
   },
   "dependencies": {
-    "@kozakl/utils": "^3.1.1",
     "@types/react": "^16.4.6",
     "@types/react-dom": "^16.0.6",
     "@types/react-router-dom": "^4.3.1",
@@ -38,7 +37,6 @@
     "esm": "^3.0.84",
     "file-loader": "^1.1.11",
     "fs-extra": "^7.0.0",
-    "gm": "^1.23.1",
     "jest": "^23.4.1",
     "postcss-cssnext": "^3.1.0",
     "postcss-each": "^0.10.0",
